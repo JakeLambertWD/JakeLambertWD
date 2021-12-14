@@ -1,7 +1,7 @@
 Hi here is what I'm working on 👋
 
 
-- 🔭 I’m currently working on ... Landing a Front End Developer Junior role
+- 🔭 I’m currently working as ... a Junior Front End Developer
 - 🌱 I’m currently learning ... Next.js, Sass, TypeScript & MaterialUI 
 - 👯 I’m looking to collaborate on ... Sharing Intricate Project Ideas and Portfolios
 - 🤔 I’m looking for help with ... Building a Full Stack React Website w/ User Authentication, Database Backend, Security, External APIs & User Accounts
